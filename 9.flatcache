@@ -1,7 +1,7 @@
-protocol=6
+protocol=5
 revision=0
 compression=0
-crc=0
+crc=-1247884930
 named=true
 id=0
 namehash=0
